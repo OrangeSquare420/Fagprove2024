@@ -8,3 +8,6 @@ Her ligger materiell til fagprøve 2024/2025 i Automatiseringsfaget. Innholdet d
 - Andre relevante emner og øvingsoppgaver
 
 For mer informasjon om læreplanen, se [læreplanen for Automatiseringsfaget på UDIR sine nettsider](https://www.udir.no/lk20/aut03-04).
+
+## For kloning
+1: git
